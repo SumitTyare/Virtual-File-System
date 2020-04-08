@@ -1,2 +1,2 @@
 # Virtual-File-System
-A Basic Virtual File System Implemented in C .
+A Basic Customised Virtual File System Implemented in C .
